@@ -4,4 +4,4 @@ This study examines human talker change detection (TCD) in multi-party speech ut
 ###### Contributors:
 Neeraj Kumar Sharma, Shobhana Ganesh, Sriram Ganapathy, Lori L. Holt
 
-Affiliation: Carnegie Mellon Univeristy, Indian Institute of Science
+Carnegie Mellon Univeristy, Indian Institute of Science
