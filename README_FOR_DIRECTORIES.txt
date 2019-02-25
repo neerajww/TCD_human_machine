@@ -27,6 +27,8 @@ Listening Test Colleted Data CSV file:
 LISTENING TEST WAVE FILES with SUBJECT-WISE RT time stamps:
 ###################################################
 Create using CODES: a. feats_extract_yaafe.py
+Output will be stored in:
+./data/fEATS/libriSpeech/test-listener-wise-data/M_5_spkrs_8_pairs_v0/added_part
 
 ###################################################
 CODES:
