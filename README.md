@@ -7,9 +7,11 @@ https://asa.scitation.org/doi/10.1121/1.5084044?af=R
 
 ###### Popular Press Coverage:
 In Inside Science:
+
 https://www.insidescience.org/news/computer-voice-recognition-still-learning-detect-who%E2%80%99s-talking
 
 In ABC News:
+
 https://abcnews.go.com/Technology/research-helping-scientists-understand-humans-recognize-voices-computers/story?id=60699647
 
 ###### Contributors:
