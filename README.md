@@ -1,5 +1,5 @@
 # Talker Change Detection (TCD): Comparison of human and machine
-This study examines human talker change detection (TCD) in multi-party speech utterances using a novel behavioral paradigm in which listeners indicate the moment of perceived talker change.
+This study examines human talker change detection (TCD) in multi-party speech utterances using a novel behavioral paradigm in which listeners indicate the moment of perceived talker change. The repository contains the data and codes used in the study.
 
 ###### Publication link:
 The Journal of the Acoustical Society of America 145, 131 (2019)
@@ -19,3 +19,4 @@ Neeraj Kumar Sharma, Shobhana Ganesh, Sriram Ganapathy, Lori L. Holt
 
 Contributors associated with the Carnegie Mellon Univeristy, Pittsburgh and the Indian Institute of Science, Bangalore.
 
+The manuscript is shared here for personal use only. Any other use requires prior permission of the author and the Acoustical Society of America.
